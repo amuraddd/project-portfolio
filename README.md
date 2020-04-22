@@ -6,6 +6,8 @@ Thanks,
 
 Ali
 
+***Note: data used in these projects is for demonstration only***
+
 --------------------
 
 # Time Series Analysis:
