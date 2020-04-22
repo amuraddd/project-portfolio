@@ -9,4 +9,4 @@ Ali
 --------------------
 
 # Time Series Analysis:
-Forecasting the level of $SO_{2}$ in Seoul, Korea
+Forecasting the level of <img src="https://render.githubusercontent.com/render/math?math=SO_{2}"> in Seoul, Korea
