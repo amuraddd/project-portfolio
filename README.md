@@ -15,4 +15,4 @@ Ali
 
 --------------------
 # Time Series Analysis and Forecasting:
-- [Forecasting the level of <img src="https://render.githubusercontent.com/render/math?math=SO_{2}"> in Seoul, Korea](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/Air%20Pollution%20in%20Seoul%20Korea.ipynb)
+- [Forecasting the level of <img src="https://render.githubusercontent.com/render/math?math=SO_{2}"> in Seoul, Korea.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/Air%20Pollution%20in%20Seoul%20Korea.ipynb)
