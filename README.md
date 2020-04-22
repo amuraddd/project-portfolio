@@ -6,7 +6,7 @@ Thanks,
 
 Ali
 
-***Note: data used in these projects is for demonstration only***
+***Note: Data used in these projects is for demonstration purposes only.***
 
 --------------------
 
