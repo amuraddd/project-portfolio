@@ -20,5 +20,5 @@ Ali
 --------------------
 ### Classification
 #### Lending Club Data Analysis: Application of Machine Learning techniques to Loan Default Prediction
-This project is built in collaboration with Brandon Moragne and Maycie McKay as our Final Practicum for Masters in Data Science at Lipscomb University.
+This project is built in collaboration with Brandon Moragne and Maycie McKay as our Final Practicum for Masters in Data Science at Lipscomb University. Algorithms used in this project include Logistic Regression, Naive Bayes, Random Forest, and K-Nearest Neighbors.
 - [Loan Default Prediction on Lending Club Loan Data.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/LendingClubLoanDefaultPrediction.ipynb)
