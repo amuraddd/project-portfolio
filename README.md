@@ -10,13 +10,14 @@ Ali
 
 ***Note: Data used in these projects is for demonstration purposes only.***
 ------------------
-# Data Exploration:
+#### Data Exploration:
 - [Data Exploration and Analysis of major stock indices.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/Data%20Exploration%20of%20Major%20Stock%20Indices.ipynb)
 
 --------------------
-# Time Series Analysis and Forecasting:
+#### Time Series Analysis and Forecasting:
 - [Forecasting the level of <img src="https://render.githubusercontent.com/render/math?math=SO_{2}"> in Seoul, Korea.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/Air%20Pollution%20in%20Seoul%20Korea.ipynb)
 
 --------------------
-##### Lending Club Data Analysis: Application of Machine Learning techniques to Loan Default Prediction
-- This project is built in collaboration with Brandon Moragne and Maycie McKay as our Final Practicum for Masters in Data Science at Lipscomb University.
+#### Lending Club Data Analysis: Application of Machine Learning techniques to Loan Default Prediction
+This project is built in collaboration with Brandon Moragne and Maycie McKay as our Final Practicum for Masters in Data Science at Lipscomb University.
+- Loan Default Prediction on Lending Club Loan Data
