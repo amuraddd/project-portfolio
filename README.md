@@ -26,7 +26,7 @@ This project is built in collaboration with Brandon Moragne and Maycie McKay as 
 --------------------
 ## Dasboards
 ### Economic Indicators in Microsoft Power BI
-This dashboards containes three seperate tabs with visuals mostly describing the state of different economic indicators as measured by trading economics. The inidcators are analyzed by regions and countries. They rovide the over health of economies through measures such as GDP, FDI Inflows, Tax Burdens, Business Freedom and more.
+This dashboards containes three seperate tabs with visuals mostly describing the state of different economic indicators as measured by trading economics. The inidcators are analyzed by regions and countries. They provide the over health of economies through measures such as GDP, FDI Inflows, Tax Burdens, Business Freedom and more. These are PNG files uploaded as screen shots of the actual interactive dashboard.
  - [Economic Indicators 1.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/Economic%20Freedom%20and%20FIscal%20Health%20By%20Region.PNG)
  - [Economic Indicators 2.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/Economic%20Freedom%20Indicators.PNG)
  - [FDI, Inflation, and Taxes.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/FDI%2C%20Inflation%2C%20and%20Taxes.PNG)
