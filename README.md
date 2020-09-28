@@ -24,6 +24,11 @@ This project is built in collaboration with Brandon Moragne and Maycie McKay as 
 - [Loan Default Prediction on Lending Club Loan Data.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/LendingClubLoanDefaultPrediction.ipynb)
 
 --------------------
+
+### Algorithms
+- [Quick Sort Implementation in Python]
+
+--------------------
 ## Dasboards
 ### Economic Indicators in Microsoft Power BI
 This dashboards containes three seperate tabs with visuals mostly describing the state of different economic indicators as measured by trading economics. The inidcators are analyzed by regions and countries. They provide the over health of economies through measures such as GDP, FDI Inflows, Tax Burdens, Business Freedom and more. These are PNG files uploaded as screen shots of the actual interactive dashboard.
