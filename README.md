@@ -26,9 +26,9 @@ This project is built in collaboration with Brandon Moragne and Maycie McKay as 
 --------------------
 
 ### Algorithms
-- To run the code below use the QuickSort.txt file.(https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/Quick%20Sort.txt)
-- Save both(code and data) files at the same location before executing the code.
 - [Quick Sort Implementation in Python](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/Quick%20Sort.py)
+- To run the code above use the QuickSort.txt file.(https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/QuickSort.txt)
+- Save both(code and data) files at the same location before executing the code.
 
 --------------------
 ## Dasboards
