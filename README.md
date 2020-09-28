@@ -26,7 +26,7 @@ This project is built in collaboration with Brandon Moragne and Maycie McKay as 
 --------------------
 
 ### Algorithms
-- [Quick Sort Implementation in Python]
+- [Quick Sort Implementation in Python](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/Quick%20Sort.py)
 
 --------------------
 ## Dasboards
