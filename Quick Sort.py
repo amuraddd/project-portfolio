@@ -23,8 +23,6 @@ Keeping this under consideration the partition function seperates the smaller an
 recurses on the left and the right side of this partitioned array until the base case is reached.
 
 - In the case below we use the first element as the pivot.
-- To run this code use the QuickSort.txt file.(https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/Quick%20Sort.py)
-- Save both(code and data) files at the same location before executing the code.
 """
 def data(fileName):
     unsorted = open(fileName, 'r')
