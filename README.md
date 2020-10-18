@@ -24,7 +24,11 @@ This project is built in collaboration with Brandon Moragne and Maycie McKay as 
 - [Loan Default Prediction on Lending Club Loan Data.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/LendingClubLoanDefaultPrediction.ipynb)
 
 --------------------
-
+### Network Analysis Using Graphs
+#### Network Visualization and Vulnerability Detection:
+This project will demonstrate how to visually present a collection of nodes in a graph followed by the application of Karger's Minimu Cut Contraction algorithm to find the minimum cut of the graph. The minimum cut of a graph can help spot the vulnerabilities in a network. These vulnerabilities are represented as edges(connections) between nodes(endpoints.) Addressing such vulnerabilities can help strengthen the network.
+- [Network Visualization and Vulnerability Detection.]
+--------------------
 ### Algorithms
 
 #### Quick Sort
