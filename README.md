@@ -1,6 +1,6 @@
 ## Project Portfolio
 
-This portfolio is consistently populated with projects as they become available. The structure of this portfolio is based on sections which address different types of techniques and analyses such as exploration, clustering, classification, time series and more. Dataset used in these projects or any other references can all be found at the begining of each notebook.
+This portfolio is consistently populated with projects as they become available. The structure of this portfolio is based on sections which address different types of techniques and analyses such as exploration, clustering, classification, time series and more. 
 
 Enjoy :smiley:
 
