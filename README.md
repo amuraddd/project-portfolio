@@ -11,6 +11,7 @@ Ali
 ***Note: Data used in these projects is for demonstration purposes only.***
 ------------------
 ### Data Exploration:
+The goal of this project is to show you the performance of S&P for the last 5 years in terms of price, returns, and the distribution of both of these attributes. Finally there is a comparison between major indices with a brief explanation on their relative performance.
 - [Data Exploration and Analysis of major stock indices.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/Data%20Exploration%20of%20Major%20Stock%20Indices.ipynb)
 
 --------------------
