@@ -16,9 +16,13 @@ The goal of this project is to show you the performance of S&P for the last 5 ye
 
 --------------------
 ### Regression
-### Linear Regression
+### Sales prediction from advertisement spending
 This project estimates a linear model which can be used to predict sales based on spending on TV, Newspaper, and Radio media. In building the model we test for the statistical significance of the model coeffecients using t-test, p-values, and F-Statistics, and also the quality of the fit using R-squared.  
 - [Regression Model to estimate sales based on advertising media](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/Linear%20Regression%20-%20Advertising.ipynb)
+----------------------
+### Median house value and car seat sales prediction  
+This notebook contains various regression models built to predict house values and car seat sales from two different datasets. The first dataset used to predict house values is called the Boston housing dataset and the second dataset used to predict child car seats at 400 different stores is called carseats. Both datasets are avaliable through the MASS and ISLR libraries in R. The models built are tested for statistical significance using p-values, F-Statistics, and ANOVA test. To enhance model accuracy and fit techniques as non-linear transformations and interaction terms are applied.
+- [Median house value and car seat sales prediction]
 
 --------------------
 
