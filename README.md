@@ -17,8 +17,8 @@ The goal of this project is to show you the performance of S&P for the last 5 ye
 --------------------
 ### Regression
 ### Linear Regression
-This project estimates a linear model which can be used to predict sales based on spending on TV, Newspaper, and Radio media. In building the model we test for the statistical significance of the model coeffecients using t-test, p-values, and F-Statistics, and also the quality of the fit using R-squared.
--[Regression Model to estimate sales based on advertising media]
+This project estimates a linear model which can be used to predict sales based on spending on TV, Newspaper, and Radio media. In building the model we test for the statistical significance of the model coeffecients using t-test, p-values, and F-Statistics, and also the quality of the fit using R-squared.  
+-[Regression Model to estimate sales based on advertising media](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/Linear%20Regression%20-%20Advertising.ipynb)
 
 --------------------
 
