@@ -15,6 +15,11 @@ The goal of this project is to show you the performance of S&P for the last 5 ye
 - [Data Exploration and Analysis of major stock indices.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/Data%20Exploration%20of%20Major%20Stock%20Indices.ipynb)
 
 --------------------
+### Regression
+### Linear Regression
+This project estimates a linear model which can be used to predict sales based on spending on TV, Newspaper, and Radio media. In building the model we test for the statistical significance of the model coeffecients using t-test, p-values, and F-Statistics, and also the quality of the fit using R-squared.
+-[Regression Model to estimate sales based on advertising media]
+--------------------
 
 ### Classification
 ####  Gender Classification for Heart Mortality in USA with population over 35 years old
