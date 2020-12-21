@@ -19,6 +19,7 @@ The goal of this project is to show you the performance of S&P for the last 5 ye
 ### Linear Regression
 This project estimates a linear model which can be used to predict sales based on spending on TV, Newspaper, and Radio media. In building the model we test for the statistical significance of the model coeffecients using t-test, p-values, and F-Statistics, and also the quality of the fit using R-squared.
 -[Regression Model to estimate sales based on advertising media]
+
 --------------------
 
 ### Classification
@@ -26,6 +27,7 @@ This project estimates a linear model which can be used to predict sales based o
 This project uses the heart mortality data retreived from Data.gov. The aim of this project is to build a classifier to predict the gender classification of observations in the data set segmented by state and mortality rate.
 - [Gender Classification for Heart Mortality in USA with population aged over 35.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/Gender%20Classification%20for%20heart%20mortality%20with%20population%20over%2035.ipynb)
 
+-------------------
 #### Lending Club Data Analysis: Application of Machine Learning techniques to Loan Default Prediction
 This project is built in collaboration with Brandon Moragne and Maycie McKay as our Final Practicum for Masters in Data Science at Lipscomb University. Algorithms used in this project include Logistic Regression, Naive Bayes, Random Forest, and K-Nearest Neighbors.
 - [Loan Default Prediction on Lending Club Loan Data.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/LendingClubLoanDefaultPrediction.ipynb)  
