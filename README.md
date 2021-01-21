@@ -36,6 +36,18 @@ This project uses the heart mortality data retreived from Data.gov. The aim of t
 This project is built in collaboration with Brandon Moragne and Maycie McKay as our Final Practicum for Masters in Data Science at Lipscomb University. Algorithms used in this project include Logistic Regression, Naive Bayes, Random Forest, and K-Nearest Neighbors.
 - [Loan Default Prediction on Lending Club Loan Data.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/LendingClubLoanDefaultPrediction.ipynb)  
 
+-------------------
+#### Classification of loan defaults and stock market direction in terms of daily percentage change
+This two part project addresses :
+   1. Default prediction on loans
+   2. Daily stock market percentage change  
+Classification Models:
+- Logistic Regression
+- Linear DIscriminant Analysis
+- Quadratic Discriminant Analysis
+- KNN  
+
+- [Loan defaults and stock market direction prediction.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/logit-lda-qda-knn.ipynb)  
 --------------------
 ### Time Series Analysis and Forecasting:
 This project is based on forecasting the level of <img src="https://render.githubusercontent.com/render/math?math=SO_{2}"> in Seoul, Korea. The data is first cleaned by removing outliers using z-scores with a threshold of 3. This is followed by correlation analysis of various pollutants in t Seoul's atmosphere. <img src="https://render.githubusercontent.com/render/math?math=SO_{2}"> is then isolated from the dataset and tested for stationarity, autocorrelation, and partial autocorrelation. Finally, using a SARIMA model the level of <img src="https://render.githubusercontent.com/render/math?math=SO_{2}"> is forecasted.
