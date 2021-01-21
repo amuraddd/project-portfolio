@@ -41,11 +41,12 @@ This project is built in collaboration with Brandon Moragne and Maycie McKay as 
 This two part project addresses :
    1. Default prediction on loans
    2. Daily stock market percentage change  
-Classification Models:
-- Logistic Regression
-- Linear DIscriminant Analysis
-- Quadratic Discriminant Analysis
-- KNN  
+   
+      Classification Models:
+      1. Logistic Regression
+      2. Linear DIscriminant Analysis
+      3. Quadratic Discriminant Analysis
+      4. KNN  
 
 - [Loan defaults and stock market direction prediction.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/logit-lda-qda-knn.ipynb)  
 --------------------
