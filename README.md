@@ -51,7 +51,7 @@ This two part project addresses :
 - [Loan defaults and stock market direction prediction.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/logit-lda-qda-knn.ipynb)  
 --------------------
 ### Time Series Analysis and Forecasting:
-This project is based on forecasting the level of <img src="https://render.githubusercontent.com/render/math?math=SO_{2}"> in Seoul, Korea. The data is first cleaned by removing outliers using z-scores with a threshold of 3. This is followed by correlation analysis of various pollutants in t Seoul's atmosphere. <img src="https://render.githubusercontent.com/render/math?math=SO_{2}"> is then isolated from the dataset and tested for stationarity, autocorrelation, and partial autocorrelation. Finally, using a SARIMA model the level of <img src="https://render.githubusercontent.com/render/math?math=SO_{2}"> is forecasted.
+This project is based on forecasting the level of <img src="https://render.githubusercontent.com/render/math?math=SO_{2}"> in Seoul, Korea. The data is first cleaned by removing outliers using z-scores with a threshold of 3. This is followed by correlation analysis of various pollutants in Seoul's atmosphere. <img src="https://render.githubusercontent.com/render/math?math=SO_{2}"> is then isolated from the dataset and tested for stationarity, autocorrelation, and partial autocorrelation. Finally, using a SARIMA model the level of <img src="https://render.githubusercontent.com/render/math?math=SO_{2}"> is forecasted.
 - [Forecasting the level of <img src="https://render.githubusercontent.com/render/math?math=SO_{2}"> in Seoul, Korea.](https://github.com/amuraddd/Project_Portfolio-Ali-Murad/blob/master/Air%20Pollution%20in%20Seoul%20Korea.ipynb)
 
 --------------------
