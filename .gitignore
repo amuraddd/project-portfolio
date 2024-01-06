@@ -160,14 +160,4 @@ cython_debug/
 #.idea/
 
 ## notebooks
-Air Pollution in Seoul Korea.ipynb
-Boston Median House Value and Car Seat Sales Prediction.ipynb
-Data Exploration of Major Stock Indices.ipynb
-Economic Freedom Indicators.PNG
-Economic Freedom and FIscal Health By Region.PNG
-FDI, Inflation, and Taxes.PNG
-Gender Classification for heart mortality with population over 35.ipynb
-LendingClubLoanDefaultPrediction.ipynb
-Linear Regression - Advertising.ipynb
-Network Visualization and Karger's Min Cut Algorithm.ipynb
-logit-lda-qda-knn.ipynb
+air_pollution_in_seoul_korea.ipynb
