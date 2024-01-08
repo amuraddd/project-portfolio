@@ -160,4 +160,16 @@ cython_debug/
 #.idea/
 
 ## notebooks
-air_pollution_in_seoul_korea.ipynb
+LendingClubLoanDefaultPrediction.ipynb
+LinearRegressionAdvertising.ipynb
+NetworkVisualizationKargersMinCutAlgorithm.ipynb
+QuickSort.py
+QuickSort.txt
+boston_median_house_value_and_car_seat_sales_prediction.ipynb
+data_exploration_of_major_stock_indices.ipynb
+economic_freedom_fiscal_health_by_region.PNG
+economic_freedom_indicators.PNG
+fdi_inflation_taxes.PNG
+gender_classification_for_heart_mortality_with_population_over_35.ipynb
+logit-lda-qda-knn.ipynb
+projects.txt
