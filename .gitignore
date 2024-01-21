@@ -162,7 +162,7 @@ cython_debug/
 *.txt
 
 ## notebooks
-LendingClubLoanDefaultPrediction.ipynb
+lending_club_loan_default_prediction.ipynb
 LinearRegressionAdvertising.ipynb
 NetworkVisualizationKargersMinCutAlgorithm.ipynb
 QuickSort.py
@@ -173,5 +173,7 @@ economic_freedom_fiscal_health_by_region.PNG
 economic_freedom_indicators.PNG
 fdi_inflation_taxes.PNG
 gender_classification_for_heart_mortality_with_population_over_35.ipynb
-logit-lda-qda-knn.ipynb
+logit_lda_qda_knn.ipynb
 projects.txt
+
+data/
