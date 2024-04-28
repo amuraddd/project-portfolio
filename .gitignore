@@ -7,6 +7,7 @@ __pycache__/
 *.txt
 # C extensions
 *.so
+*.DS_Store
 
 # Distribution / packaging
 .Python
